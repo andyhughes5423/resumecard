@@ -68,17 +68,17 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: SQL
+      percentage: 90%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: PL/SQL
+      percentage: 80%
     - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
+      name: R
       percentage: 90%
+    - skill4:
+      name: VBA
+      percentage: 80%
+    - skill5:
+      name: C++
+      percentage: 70%
