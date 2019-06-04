@@ -15,14 +15,13 @@ exclude: [vendor]
 # Author settings
 author:
   name: Andy Hughes
-  title: Java Developer
+  title: Technology Analyst
   address: Chicago, IL
   email: andyhughes5423@yahoo.com
   link: http://ddbullfrog.com
   weibo:
   github: andyhughes5423
   linkedin: andyhughes5423
-  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
