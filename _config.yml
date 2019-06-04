@@ -58,24 +58,21 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Spanish
+      proficiency: Intermediate
   programmingSkills:
     - skill1:
       name: SQL
       percentage: 90%
     - skill2:
-      name: PL/SQL
-      percentage: 80%
-    - skill3:
       name: R
       percentage: 90%
+    - skill3:
+      name: PL/SQL
+      percentage: 80%
     - skill4:
       name: VBA
       percentage: 80%
