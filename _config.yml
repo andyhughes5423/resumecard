@@ -1,7 +1,7 @@
 # Site settings
 title: Andy Hughes || Technical Portfolio 
 description: Andy's Portfolio
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/Me.JPG
 baseurl: https://andyhughes5423.github.io/resumecard
 url: https://andyhughes5423.github.io/resumecard
 rss_url: /pages/atom.xml
