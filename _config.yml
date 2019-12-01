@@ -1,5 +1,5 @@
 # Site settings
-title: Andy Hughes || Technical Portfolio 
+title: Andy Hughes || Resumé
 description: Andy's Portfolio
 favicon: /assets/img/Me.JPG
 baseurl: https://andyhughes5423.github.io/resumecard
@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Andy Hughes
-  title: Technology Analyst
+  title: Business Technology Analyst
   address: Chicago, IL
   email: andyhughes5423@yahoo.com
   link: http://ddbullfrog.com
